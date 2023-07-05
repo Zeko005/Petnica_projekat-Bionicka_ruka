@@ -20,4 +20,4 @@ Cilj projekta je izrada bionicke ruke koja se pokrece pomocu nervnih signala.
 <p>Cekamo komponente i nastavljamo sa izradom 3d modela.</p>
 <h2>Peti dan(5.7.2023.)</h2>
 <p>Updejtovan git, tokom dana vise pokusaja 3D printovanje, uspesan samo glavni deo sake.</p>
-
+<p>Dodat kod koji ce se koristiti kao primer za buduci kod.</p>
