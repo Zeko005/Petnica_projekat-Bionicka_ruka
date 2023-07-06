@@ -1,7 +1,7 @@
 <h1>Petnica_projekat-Bionicka_ruka</h1>
 Cilj projekta je izrada bionicke ruke kojom se upravlja pomocu nervnih signala.
 <h2>Prvi dan(1.7.2023.)</h2>
-<p>Napravljen Github folder* projekta.</p>
+<p>Napravljen Github repozitorijum projekta.</p>
 <p>Naruciti komponente i naci 3d model.</p>
 <h2>Drugi dan(2.7.2023)</h2>
 <p>Poslate molbe za profakture za komponente.</p>
