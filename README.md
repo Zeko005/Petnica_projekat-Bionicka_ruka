@@ -8,6 +8,8 @@ Za izradu koristimo 5 mikro servo motora, 1 arduino nano, 1 arduino servo motor 
 
 Ruka se kontorliše tako što uECG senzor detektuje signal sa žive ruke i šalje arduino nanu koji u odnosu na signal određuje koji prst treba pomeriti(ovo je urađeno uz pomoć sofware-a) i onda šalje komandu servo motor kontroleru koji pomera jedan od 5 servo motora i samim tim i jedan od 5 prstiju.
 
+Glavne prepreke su određivanje za koji prst je vezan koji signal i filtriranje signala i uklanjanje šumova.
+
 ## Dnevnik zimskog seminara 2023
 
     Prvi dan(1.7.2023.)
